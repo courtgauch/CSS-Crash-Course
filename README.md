@@ -1,2 +1,2 @@
 # CSS-Crash-Course
-website created from course http://127.0.0.1:5500/index.html
+file:///Users/courtneygauchel/Desktop/MS%20Biomedical%20Informatics%20/Fall%202023/BMI%206017-Computer%20Science%20Fundamentals/Junk/csscrashcourse/css%20cheat%20sheat/index.html
